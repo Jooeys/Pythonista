@@ -1,0 +1,11 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Fri Nov 17 03:39:05 2017
+
+@author: Jooey
+"""
+
+sum=0
+for x in range(101):
+    sum=sum+x
+print(sum)
